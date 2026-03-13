@@ -1,4 +1,4 @@
-# Olá, eu sou o Robert! (rotebr-sl) 👋
+# Olá, eu sou o Robert! 👋
 
 ### 👨‍💻 Sobre mim
 - 🎓 **Formação:** Técnico em TI pela ETEC e Graduando em Gestão.
