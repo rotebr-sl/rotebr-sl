@@ -23,5 +23,4 @@
 ---
 
 ### 📫 Como me encontrar
-- **Nerdin:** [Seu link do Nerdin aqui]
-- **LinkedIn:** [Seu link do LinkedIn aqui]
+- **LinkedIn:** [(https://www.linkedin.com/in/robert-salles/)]
