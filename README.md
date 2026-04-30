@@ -1,7 +1,7 @@
 # Olá, eu sou o Robert! 👋
 
 ### 👨‍💻 Sobre mim
-- 🎓 **Formação:** Técnico em TI pela ETEC e Graduando em Gestão.
+- 🎓 **Formação:** Técnico em TI pela ETEC e Graduado em Gestão.
 - 🚀 **Transição de Carreira:** Atuando em **Vendas no Varejo** e migrando para o mundo de **Dados e Suporte**.
 - 🛠 **Habilidades:** Experiência com atendimento ao público, resolução de problemas e sistemas de vendas/gestão.
 
@@ -23,4 +23,4 @@
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [(https://www.linkedin.com/in/robert-salles/)]
+- **LinkedIn:** [(www.linkedin.com/in/robert-salles)]
